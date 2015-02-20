@@ -1,3 +1,8 @@
+## This code is provided by a classmate in the discussion forum.
+## It's used to test whether my code is correct.
+## Make sure I set the working directory before running it.
+
+
 # Test your code
 source("draft.R")
 #
